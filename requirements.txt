@@ -6,4 +6,6 @@ catboost
 xgboost
 dill
 datetime
+Flask
+dataclasses
 #-e .
